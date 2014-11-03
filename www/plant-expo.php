@@ -18,7 +18,7 @@
 
 <head>
 
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
 <link href="css/pageinfo.css" rel="stylesheet" type="text/css" />
 
@@ -98,25 +98,25 @@ if ( $a_browser_data[0] == 'ie' && $a_browser_data[1] <= 6)
 
     	<div>
 
-                <p><img src="images/plant-expo-big.jpg" alt="" width="251" height="169" hspace="15" align="left" />Just in time for spring planting and Mother’s Day! The Verde Natural Resource Conservation District (NRCD) is pleased to announce its second annual “AlterNATIVE Plant Expo” at Verde River Growers on:</p>
+                <p><img src="images/plant-expo-big.jpg" alt="" width="251" height="169" hspace="15" align="left" />Just in time for spring planting and Motherï¿½s Day! The Verde Natural Resource Conservation District (NRCD) is pleased to announce its second annual ï¿½AlterNATIVE Plant Expoï¿½ at Verde River Growers on:</p>
                 <p> <span class="bold">Saturday, May 5, 9:00 am-4:00 pm<br />
                 </span>Verde River Growers<br />
                 2613 Rocking Chair Rd., Cottonwood.</p>
                 <p><br />
-                Expanding on last year’s success, this year’s Expo will include classes, music, an art activity, vendor booths, and rain barrels for sale. Classes include:                </p>
-                <p>9 am: Verde River Growers’ Shaun Seymond -- “Native Plants for 2012”                <br />
-                  10 am: Cottonwood Mayor Diane Joens – “Community garden”
+                Expanding on last yearï¿½s success, this yearï¿½s Expo will include classes, music, an art activity, vendor booths, and rain barrels for sale. Classes include:                </p>
+                <p>9 am: Verde River Growersï¿½ Shaun Seymond -- ï¿½Native Plants for 2012ï¿½                <br />
+                  10 am: Cottonwood Mayor Diane Joens ï¿½ ï¿½Community gardenï¿½
                   <br />
-                  11 am: USDA’s Natural Resources Conservation Service – Kresta Faaborg -- 			“Know What You’ve Got” Backyard Inventory
-                  Noon – <br />
+                  11 am: USDAï¿½s Natural Resources Conservation Service ï¿½ Kresta Faaborg -- 			ï¿½Know What Youï¿½ve Gotï¿½ Backyard Inventory
+                  Noon ï¿½ <br />
                   1 pm: Nursery Tour
-                  1 pm: Verde NRCD’s Chris Jensen -- “Impact of Invasive Plants”
+                  1 pm: Verde NRCDï¿½s Chris Jensen -- ï¿½Impact of Invasive Plantsï¿½
                   <br />
-                  2 pm: UA Extension’s Jeff Schalau -- “Wildlife In Your Garden: Friend or Foe?”                </p>
+                  2 pm: UA Extensionï¿½s Jeff Schalau -- ï¿½Wildlife In Your Garden: Friend or Foe?ï¿½                </p>
                 <p><span class="bold">Rain barrels for sale</span>, only $30.00 each or 2 for $50.00. </p>
-                <p>Local artist Joan Bourque will be on hand all day to direct a children’s art activity to decorate pottery for Mother’s Day. Also, Cottonwood Middle School students have created trivets decorated with native plants for sale. All proceeds from the trivets will go to CMS for art education programs.</p>
-                <p> <span class="bold">Live acoustical music</span>: Hank Levine 9 am –noon and Pam Costello with Wendy Ferguson from noon – 2 pm.                </p>
-                <p><span class="bold">Numerous vendors</span> will be on hand to answer questions about sustainability and related topics, including: Master Gardeners; Garden of Eden; Verde Food Council; Sedona Recycles; and Verde Valley Farmer’s Market. Refreshments and educational materials will be available from the Verde NRCD.  Verde River Growers will donate a portion of all native plant sales to the Verde NRCD’s Education Center.</p>
+                <p>Local artist Joan Bourque will be on hand all day to direct a childrenï¿½s art activity to decorate pottery for Motherï¿½s Day. Also, Cottonwood Middle School students have created trivets decorated with native plants for sale. All proceeds from the trivets will go to CMS for art education programs.</p>
+                <p> <span class="bold">Live acoustical music</span>: Hank Levine 9 am ï¿½noon and Pam Costello with Wendy Ferguson from noon ï¿½ 2 pm.                </p>
+                <p><span class="bold">Numerous vendors</span> will be on hand to answer questions about sustainability and related topics, including: Master Gardeners; Garden of Eden; Verde Food Council; Sedona Recycles; and Verde Valley Farmerï¿½s Market. Refreshments and educational materials will be available from the Verde NRCD.  Verde River Growers will donate a portion of all native plant sales to the Verde NRCDï¿½s Education Center.</p>
                 <p> Invasive plants impact natural areas by fueling unnatural and destructive desert fires, displacing native vegetation, degrading wildlife habitat, depleting soil nutrients, increasing allergens, and altering natural water flows. Because as much as 70 percent of the water used by every individual is used outdoors, planting native species helps conserve scarce water resources in landscaping. Residents who incorporate water-efficient plants into their landscape will help to preserve water for future generations.
   <script language="JavaScript">safemail('','info','Email Us Today')</script>
                   

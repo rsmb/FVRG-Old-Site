@@ -18,7 +18,7 @@
 
 <head>
 
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
 <link href="css/pageinfo2.css" rel="stylesheet" type="text/css" />
 
@@ -86,7 +86,7 @@ if ( $a_browser_data[0] == 'ie' && $a_browser_data[1] <= 6)
 
    		<img src="images/header-lines.jpg" width="900" height="8" border="0" align="top" /><br />
 
-        One of Arizona’s Last Free-Flowing Rivers 
+        One of Arizonaï¿½s Last Free-Flowing Rivers 
 
    	  </div>
 
@@ -110,7 +110,7 @@ if ( $a_browser_data[0] == 'ie' && $a_browser_data[1] <= 6)
 
           <param name="swfversion" value="6.0.65.0" />
 
-          <!-- This param tag prompts users with Flash Player 6.0 r65 and higher to download the latest version of Flash Player. Delete it if you don’t want users to see the prompt. -->
+          <!-- This param tag prompts users with Flash Player 6.0 r65 and higher to download the latest version of Flash Player. Delete it if you donï¿½t want users to see the prompt. -->
 
           <param name="expressinstall" value="Scripts/expressInstall.swf" />
 

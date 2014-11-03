@@ -1,7 +1,5 @@
 <?php
-
 	require('_includes/setup.php');
-
 	$pagetitle = 'Home';
 
 	$pagekeywords = '';
@@ -18,7 +16,7 @@
 
 <head>
 
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
 <link href="css/pageinfo2.css" rel="stylesheet" type="text/css" />
 
@@ -60,7 +58,7 @@ if ( $a_browser_data[0] == 'ie' && $a_browser_data[1] <= 6)
 
 
 
-    
+
 
 	<div id="content-container">
 
@@ -72,7 +70,7 @@ if ( $a_browser_data[0] == 'ie' && $a_browser_data[1] <= 6)
 
        	</map>
 
-        
+
 
 <div id="interface">
 
@@ -86,7 +84,7 @@ if ( $a_browser_data[0] == 'ie' && $a_browser_data[1] <= 6)
 
    		<img src="images/header-lines.jpg" width="900" height="8" border="0" align="top" /><br />
 
-        One of Arizona’s Last Free-Flowing Rivers 
+        One of Arizonaï¿½s Last Free-Flowing Rivers
 
    	  </div>
 
@@ -98,7 +96,7 @@ if ( $a_browser_data[0] == 'ie' && $a_browser_data[1] <= 6)
 
       <br /><br /><br />
 
-      <div id="flash-home"> 
+      <div id="flash-home">
 
         <object id="FlashID" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="583" height="276">
 
@@ -110,7 +108,7 @@ if ( $a_browser_data[0] == 'ie' && $a_browser_data[1] <= 6)
 
           <param name="swfversion" value="6.0.65.0" />
 
-          <!-- This param tag prompts users with Flash Player 6.0 r65 and higher to download the latest version of Flash Player. Delete it if you don’t want users to see the prompt. -->
+          <!-- This param tag prompts users with Flash Player 6.0 r65 and higher to download the latest version of Flash Player. Delete it if you donï¿½t want users to see the prompt. -->
 
           <param name="expressinstall" value="Scripts/expressInstall.swf" />
 
@@ -174,9 +172,9 @@ if ( $a_browser_data[0] == 'ie' && $a_browser_data[1] <= 6)
 
         <br /><br /><br />
 
-        
 
-        
+
+
 
         <h2>Friends of Verde River Greenway<br />
 
@@ -192,21 +190,21 @@ if ( $a_browser_data[0] == 'ie' && $a_browser_data[1] <= 6)
 
         <ul>
 
-   	    <li><strong>Integrity</strong> – We commit to the principles of truth and honesty.  We are transparent and credible, ensuring public trust.</li>
+   	    <li><strong>Integrity</strong> ï¿½ We commit to the principles of truth and honesty.  We are transparent and credible, ensuring public trust.</li>
 
             <br />
 
-            <li><strong>Collaboration</strong> – We believe our work is accomplished through voluntary, inclusive partnerships and ideas which empower others to be committed and engaged.</li>
+            <li><strong>Collaboration</strong> ï¿½ We believe our work is accomplished through voluntary, inclusive partnerships and ideas which empower others to be committed and engaged.</li>
 
 			<br />
 
-            <li><strong>Sustainability</strong> – We are guided by long-term environmental stewardship and economic viability.</li>
+            <li><strong>Sustainability</strong> ï¿½ We are guided by long-term environmental stewardship and economic viability.</li>
             			<br />
 
-            <li><strong>Respect</strong> – We honor the traditions and individual rights of our diverse community.</li>
+            <li><strong>Respect</strong> ï¿½ We honor the traditions and individual rights of our diverse community.</li>
             			<br />
 
-            <li><strong>Work Ethic </strong> – We proactively engage in “boots on the ground” projects guided by sound conservation principles.</li>
+            <li><strong>Work Ethic </strong> ï¿½ We proactively engage in ï¿½boots on the groundï¿½ projects guided by sound conservation principles.</li>
 
       </ul>
 
@@ -214,67 +212,67 @@ if ( $a_browser_data[0] == 'ie' && $a_browser_data[1] <= 6)
 
 
 
-    </div>  
+    </div>
 
     <!-- Close Content Left Box-->
 
-    
 
-    
+
+
 
     <div id="content-right">
 
       <?php include ("_includes/eventbox1.php"); ?>
 
-        <?php include ("_includes/eventbox2.php"); ?> 
+        <?php include ("_includes/eventbox2.php"); ?>
 
-        <div align="center" style="margin-bottom:14pt; margin-top:10pt"><img src="images/sidebar-photo.jpg" width="240" height="131" alt=" habitat in the Verde Valley" /></div>  
+        <div align="center" style="margin-bottom:14pt; margin-top:10pt"><img src="images/sidebar-photo.jpg" width="240" height="131" alt=" habitat in the Verde Valley" /></div>
 
-		
+
 
         <?php include ("_includes/eventbox3.php"); ?>
 
-    
+
 
     </div>  <!-- Close Content Right Box-->
 
-    
 
-    
+
+
 
   <div class="clear-floats"></div>
 
-  
+
 
     <div id="interface-bottom-holder">
 
    	  <?php include ("_includes/interfacebar-bottom.php"); ?>
 
-      
+
 
     </div>
 
-    
+
 
     <div id="footer">
 
     <br />
 
-    	
+
 
 		<?php include ("_includes/footer.php"); ?>
 
 	</div> <!-- Close Footer-->
 
-  
 
-</div> 
+
+</div>
 
 <!-- Close Content Holder Box-->
 
 <div class="clear-floats"></div>
 
-   
+
 
 </div> <!-- Close Page Content Box-->
 
@@ -295,4 +293,3 @@ swfobject.registerObject("FlashID");
 </body>
 
 </html>
-

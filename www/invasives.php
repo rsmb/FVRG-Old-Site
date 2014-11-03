@@ -18,7 +18,7 @@
 
 <head>
 
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
 <link href="css/pageinfo.css" rel="stylesheet" type="text/css" />
 
@@ -102,7 +102,7 @@ if ( $a_browser_data[0] == 'ie' && $a_browser_data[1] <= 6)
         <li>Demonstration projects on invasive removal are ongoing. No experience is necessary. Contact  <a href="mailto:friendsvrg@gmail.com">friendsvrg@gmail.com</a> </li>
         <li>GPS mapping of invasive plants is ongoing. These maps will document the density and location of the pest species as well as our progress on their removal. No experience is necessary. Contact Anna Schrenk at  <a href="mailto:anna.schrenk@verdewrc.org">anna.schrenk@verdewrc.org</a> for more information.</li>
         <li>Property owners who wish to remove invasive plants from riparian property can contact Laura Jones at <a href="mailto:laura@verdewrc.org ">laura@verdewrc.org </a> </li>
-        <li>Preserve the Verde’s water by finding ways to conserve water usage at your home or business.</li>
+        <li>Preserve the Verdeï¿½s water by finding ways to conserve water usage at your home or business.</li>
         <li>Stay informed about all upcoming local environmental events by watching our calendar. </li>
       </ul>
       

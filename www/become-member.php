@@ -8,8 +8,8 @@
 		include("catchallinfo.php");
   		$img = new Catchall();
   		$valid = $img->check(addslashes($_POST['newcode']));
-				
-		
+
+
 if(isset($_POST['Submit']) && $valid == true)
 	{
 	//variables used
@@ -38,30 +38,30 @@ if(isset($_POST['Submit']) && $valid == true)
 				$other = addslashes($_POST['other']);
 				$catchallinfo = addslashes($_POST['newcode']);
 				$ip = $_SERVER['REMOTE_ADDR'];
-				
+
 				$interestlist = ($interest != ""?$interest:'') . ($interest2 != ""?', '.$interest2:'') . ($interest3 != ""?', '.$interest3:'') . ($interest4 != ""?', '.$interest4:'') . ($interest5 != ""?', '.$interest5:'');
-				
+
 				$generallist = ($programs != ""?$programs:'') . ($programs2 != ""?', '.$programs2:'') . ($programs3 != ""?', '.$programs3:'') . ($programs4 != ""?', '.$programs4:'') . ($programs5 != ""?', '.$programs5:'') . ($programs6 != ""?', '.$programs6:'') . ($programs7 != ""?', '.$programs7:'') . ($programs8 != ""?', '.$programs8:'');
-		
-						
+
+
 				###############################################################################
-						
-						// Add info into the DB  
+
+						// Add info into the DB
 						$thetime = time();
 						$test = smart($_POST['membership']);
-						
+
 						$sql = "INSERT INTO members SET email = ".smart($_POST['email']).", name = ".smartCap($_POST['firstname']).", lname = ".smartCap($_POST['lname']).", address = ".smartCap($_POST['streetaddress']).",  city = ".smartCap($_POST['city']).", state = ".smart($_POST['state']).", zipcode = ".smart($_POST['zipcode']).", phonehome = ".smart($_POST['phonehome']).", level = ".smart($_POST['membership']).", timestamp = ".$thetime;
-						
+
 		mysql_query($sql);
-						
+
 	}
-						
+
 ?>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <link href="css/pageinfo.css" rel="stylesheet" type="text/css" />
 
 <?php include ("_includes/metatags.php"); ?>
@@ -126,7 +126,7 @@ function Validate_Form1()
 		return(false);
 	}
 	return (true);
-} 
+}
 </script>
 
 
@@ -146,17 +146,17 @@ if ( $a_browser_data[0] == 'ie' && $a_browser_data[1] <= 6)
 <div id="page-top"><img src="images/bird-top.jpg" alt="Arizona&rsquo;s last free-flowing rivers" width="359" height="63" border="0" align="top" /></div>
 
 <div id="page-container">
-	
+
 	<div id="lefttop">
     	<img src="images/leftuppercorner.jpg" alt="Friends of Verde River " width="19" height="62" border="0" align="bottom" />
     </div>
-    
+
 	<div id="content-container">
    	  <img src="images/header.jpg" alt="Verde River Greenway" width="974" height="165" border="0" align="top" usemap="#home" />
    		<map name="home" id="home">
    		  <area shape="rect" coords="502,12,950,98" href="index.php" />
        	</map>
-        
+
 <div id="interface">
    	 	 <?php include ("_includes/interfacebar.php"); ?>
     </div>
@@ -165,7 +165,7 @@ if ( $a_browser_data[0] == 'ie' && $a_browser_data[1] <= 6)
    		<img src="images/header-lines.jpg" width="900" height="8" border="0" align="top" /> </div>
     <div id="content-left">
       <h2>Member Application:</h2>
-      
+
       <?php
 	  if(isset($_POST['Submit']) && $valid == true)
 	{
@@ -200,14 +200,14 @@ if ( $a_browser_data[0] == 'ie' && $a_browser_data[1] <= 6)
 					</table>
 					<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="">
 					<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
-	  </form>	
-    
+	  </form>
+
     <?php
 	}
 	else
 	{
 	?>
-     
+
     If you are interested inbecoming a member of the Friends of Verde River Greenway, please fill out of the member application below or <a href="VerdeVolunteerApplication.pdf">download the application</a> and mail it to us.
     <br />
     <br />
@@ -219,7 +219,7 @@ if ( $a_browser_data[0] == 'ie' && $a_browser_data[1] <= 6)
           <tr>
             <td width="178" class="subheader"><strong>* First Name  </strong></td>
             <td width="437" class="txt">
-            <input name="firstname" type="text" id="firstname" size="40" accesskey="1" tabindex="1" value="<?=addslashes($_POST['firstname'])?>"/>				  
+            <input name="firstname" type="text" id="firstname" size="40" accesskey="1" tabindex="1" value="<?=addslashes($_POST['firstname'])?>"/>
               </td>
           </tr>
           <tr>
@@ -278,7 +278,7 @@ if ( $a_browser_data[0] == 'ie' && $a_browser_data[1] <= 6)
           <tr>
             <td height="20" align="right" valign="top">&nbsp;</td>
             <td class="txt"><em>Please select one of the following membership levels.</em><br />
-            <?php 
+            <?php
 					if(isset($_POST['membership']) == 1)
 					{
 						membershipDropDownList($_POST['membership']);
@@ -287,7 +287,7 @@ if ( $a_browser_data[0] == 'ie' && $a_browser_data[1] <= 6)
 					{
 						membershipDropDownList(0);
 					}
-			
+
 				?>
 			</td>
           </tr>
@@ -306,7 +306,7 @@ if ( $a_browser_data[0] == 'ie' && $a_browser_data[1] <= 6)
             <td height="20" align="right" valign="top">&nbsp;</td>
             <td class="txt"><label>
               <input name="interest" type="checkbox" id="interest" value="Cleanup Crew" <?=isset($_POST['interest']) ? 'checked="checked"' : ''?>/>
-            </label>              
+            </label>
               Cleanup Crew<br />
                     <input name="interest2" type="checkbox" id="interest2" value="Trail Maintenance" <?=isset($_POST['interest2']) ? 'checked="checked"' : ''?> />
               Trail Maintenance<br />
@@ -315,7 +315,7 @@ if ( $a_browser_data[0] == 'ie' && $a_browser_data[1] <= 6)
                     <input name="interest4" type="checkbox" id="interest4" value="Outreach/Education" <?=isset($_POST['interest4']) ? 'checked="checked"' : ''?>/>
               Outreach/Education<br />
                     <input name="interest5" type="checkbox" id="interest5" value="Introductory Field Trips" <?=isset($_POST['interest5']) ? 'checked="checked"' : ''?>/>
-              Introductory Field Trips<br />                                            
+              Introductory Field Trips<br />
 </td>
           </tr>
           <tr>
@@ -325,9 +325,9 @@ if ( $a_browser_data[0] == 'ie' && $a_browser_data[1] <= 6)
           <tr>
             <td height="178" align="right" valign="top">&nbsp;</td>
             <td class="txt">
-            		
+
             		  <input name="programs" type="checkbox" id="programs" value="Clerical Support" <?=isset($_POST['programs']) ? 'checked="checked"' : ''?>/>
-          		  
+
        		  Clerical Support<br />
                     <input name="programs2" type="checkbox" id="programs2" value="Internet Support" <?=isset($_POST['programs2']) ? 'checked="checked"' : ''?>/>
               Internet Support<br />
@@ -342,7 +342,7 @@ if ( $a_browser_data[0] == 'ie' && $a_browser_data[1] <= 6)
                     <input name="programs7" type="checkbox" id="programs7" value="Commitee Member" <?=isset($_POST['programs7']) ? 'checked="checked"' : ''?>/>
         Committee Member<br />
                     <input name="programs8" type="checkbox" id="programs8" value="Board Member" <?=isset($_POST['programs8']) ? 'checked="checked"' : ''?>/>
-              Board Member<br />                             
+              Board Member<br />
 
             </td>
           </tr>
@@ -395,61 +395,61 @@ if ( $a_browser_data[0] == 'ie' && $a_browser_data[1] <= 6)
 		<input name="Submit" type="submit" class="formbutton" id="Submit" value="Submit" />
 			&nbsp;&nbsp;&nbsp;&nbsp;
 <input type="reset" class="formbutton" />
-</div>	
+</div>
 
 </form>
-                <?php 
-	  }   
+                <?php
+	  }
 ?>
-	  
+
 <br />
       <br />
     </div>  <!-- Close Content Left Box-->
-    
+
     <div id="content-right">
-    
+
     	<?php
 	  	if(isset($_POST['Submit']) && $valid == true)
 			{
 	  ?>
 	  <?php include ("_includes/eventbox1.php"); ?>
       <div align="center" style="margin-bottom:14pt; margin-top:10pt"><img src="images/sidebar-photo.jpg" width="240" height="131" alt=" habitat in the Verde Valley" /></div>
-      
+
       <?php
 			}
 			else
 			{
 	  ?>
-      
+
 	  <?php include ("_includes/eventbox1.php"); ?>
-        
-		<?php include ("_includes/eventbox2.php"); ?>  
-           
+
+		<?php include ("_includes/eventbox2.php"); ?>
+
         <div align="center" style="margin-bottom:14pt; margin-top:10pt"><img src="images/sidebar-photo.jpg" width="240" height="131" alt=" habitat in the Verde Valley" /></div>
-        
+
         <?php include ("_includes/eventbox3.php"); ?>
         <?php
 			}
 	  ?>
-    
+
     </div>  <!-- Close Content Right Box-->
-    
-    
+
+
   <div class="clear-floats"></div>
-  
+
     <div id="interface-bottom-holder">
    	  <?php include ("_includes/interfacebar-bottom.php"); ?>
-      
+
     </div>
-    
+
     <div id="footer">
     <br />
-    	
+
 		<?php include ("_includes/footer.php"); ?>
 	</div> <!-- Close Footer-->
-  
+
   </div> <!-- Close Content Holder Box-->
-   
+
 </div> <!-- Close Page Content Box-->
 </body>
 </html>
