@@ -5,6 +5,7 @@
     <h3>Volunteer Opportunity</h3>
     <p>
       Come volunteer with Friends and Yavapai Big Brothers Big Sisters
+      <br />
       Nov 15, 2014
       <br />
       Cottonwood, AZ

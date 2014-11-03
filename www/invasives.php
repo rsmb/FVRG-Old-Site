@@ -58,7 +58,7 @@ if ( $a_browser_data[0] == 'ie' && $a_browser_data[1] <= 6)
 
 <div id="page-container">
 
-	
+
 
 	<div id="lefttop">
 
@@ -66,7 +66,7 @@ if ( $a_browser_data[0] == 'ie' && $a_browser_data[1] <= 6)
 
     </div>
 
-    
+
 
 	<div id="content-container">
 
@@ -78,7 +78,7 @@ if ( $a_browser_data[0] == 'ie' && $a_browser_data[1] <= 6)
 
        	</map>
 
-        
+
 
 <div id="interface">
 
@@ -102,21 +102,21 @@ if ( $a_browser_data[0] == 'ie' && $a_browser_data[1] <= 6)
         <li>Demonstration projects on invasive removal are ongoing. No experience is necessary. Contact  <a href="mailto:friendsvrg@gmail.com">friendsvrg@gmail.com</a> </li>
         <li>GPS mapping of invasive plants is ongoing. These maps will document the density and location of the pest species as well as our progress on their removal. No experience is necessary. Contact Anna Schrenk at  <a href="mailto:anna.schrenk@verdewrc.org">anna.schrenk@verdewrc.org</a> for more information.</li>
         <li>Property owners who wish to remove invasive plants from riparian property can contact Laura Jones at <a href="mailto:laura@verdewrc.org ">laura@verdewrc.org </a> </li>
-        <li>Preserve the Verde�s water by finding ways to conserve water usage at your home or business.</li>
+        <li>Preserve the Verde's water by finding ways to conserve water usage at your home or business.</li>
         <li>Stay informed about all upcoming local environmental events by watching our calendar. </li>
       </ul>
-      
+
 
       <br />
 
-    </div>  
+    </div>
     <!-- Close Content Left Box-->
 
-    
+
 
     <div id="content-right">
 
-    
+
 
     	<div id="event-box">
 
@@ -156,53 +156,52 @@ if ( $a_browser_data[0] == 'ie' && $a_browser_data[1] <= 6)
 
               &nbsp;&nbsp;&nbsp;&nbsp; Steven &ldquo;Max&rdquo; Castillo
 
-          </div> 
+          </div>
 
         	<img src="images/event-bottom.jpg" width="244" height="19" />
 
-        </div> <!-- Close Event Box 1 Box--> 
+        </div> <!-- Close Event Box 1 Box-->
 
-    
+
 
     </div>  <!-- Close Content Right Box-->
 
-    
 
-    
+
+
 
   <div class="clear-floats"></div>
 
-  
+
 
     <div id="interface-bottom-holder">
 
    	  <?php include ("_includes/interfacebar-bottom.php"); ?>
 
-      
+
 
     </div>
 
-    
+
 
     <div id="footer">
 
     <br />
 
-    	
+
 
 		<?php include ("_includes/footer.php"); ?>
 
 	</div> <!-- Close Footer-->
 
-  
+
 
   </div> <!-- Close Content Holder Box-->
 
-   
+
 
 </div> <!-- Close Page Content Box-->
 
 </body>
 
 </html>
-

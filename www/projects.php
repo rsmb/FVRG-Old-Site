@@ -58,7 +58,7 @@
 									Through its partnership in the Verde Watershed Restoration Coalition (VWRC), FVRG works in collaboration with
 									partners including pubic land managers, private landowners and other conservation organizations, to plan and
 									implement riparian habitat improvement projects throughout the Verde Watershed.  During the last three years,
-									this project has removed 100,000�s of thousands of invasive plants on private and public land throughout the
+									this project has removed 100,000's of thousands of invasive plants on private and public land throughout the
 									Verde Watershed. To learn more click here:
 									<a href="http://verdewrc.org/" target="_blank">http://verdewrc.org/</a>
 									<br />
@@ -85,7 +85,7 @@
       						<strong class="photolabel"><img src="images/trail.jpg" alt="River Restoration and Enhancement" width="206" height="156" border="0" align="top" style="float:left; margin-right:12pt; margin-bottom:8pt"/>Boots on the Ground Volunteer Activities</strong>
 									<br />
 									Through our partnership with Dead Horse Ranch State Park and other Verde Valley municipalities, FVRG volunteers help local land managers improve and maintain habitat along the Verde River Greenway. <br /><br />
-									Projects have included maintaining existing and developing trail systems increasing the public�s access to the Verde River and its lush riparian habitat. Friend�s volunteers have also contributed to the formation of paddle trails, giving residents and visitors a unique vantage point, from the river, to experience the Verde River Greenway.<br /><br />
+									Projects have included maintaining existing and developing trail systems increasing the public's access to the Verde River and its lush riparian habitat. Friend's volunteers have also contributed to the formation of paddle trails, giving residents and visitors a unique vantage point, from the river, to experience the Verde River Greenway.<br /><br />
 									Our volunteer involvement with invasive plant removal has also crucial to ensuring that the Verde River Greenway is a health environment for wildlife and people alike.
 									<br />
       				</div>
