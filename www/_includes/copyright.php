@@ -1,0 +1,1 @@
+&copy; <?=date("Y")?> <name here><br />Web Designed by <a href="http://www.web-writer.com" target="_blank">Web-Writer, Inc.</a>
