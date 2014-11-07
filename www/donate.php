@@ -69,6 +69,8 @@
 					<a href="https://co.clickandpledge.com/?wid=91656" target="-blank">
 						<img alt="Donate Now" border="0" src="images/FVRGDonateNowButton2.jpg" />
 					</a>
+					
+					<br />
 
 					<a href="https://co.clickandpledge.com/?wid=93097" target="-blank">
 						<img alt="Donate Now" border="0" src="images/VeteransDayDonateButton2.jpg" />
