@@ -48,12 +48,11 @@
 			</div>
 
 			<div id="content-left">
-				Friends of Verde River Greenway (FVRG) is a 501(c) 3 non-profit organization dedicated to the
-				preservation, enhancement and promotion of the scenic, natural, historic, cultural, and
-				recreational resources of the Verde Watershed. Our work is dependent on the participation and
-				support of the community of the Verde Valley and beyond. Please support Friends by making a
-				tax-deductible donation by clicking the Donate Now button below. Your donations will go toward
-				supporting our work in the Verde Watershed.
+				Friends of Verde River Greenway (FVRG) is a 501(c) 3 non-profit organization with a mission
+				to restore, preserve and promote the natural, cultural, scenic and recreational resources of
+				the Verde River and its tributaries. Our work is dependent on the participation and support of
+				the community of the Verde Valley and beyond. Please support FVRG by making a tax-deductible donation
+				by clicking below. Your donations will go to support our work throughout the Verde Watershed.
 				<br />
 				<br />
 				Thank you for your support!
@@ -69,7 +68,7 @@
 					<a href="https://co.clickandpledge.com/?wid=91656" target="-blank">
 						<img alt="Donate Now" border="0" src="images/FVRGDonateNowButton2.jpg" />
 					</a>
-					
+
 					<br />
 
 					<a href="https://co.clickandpledge.com/?wid=93097" target="-blank">
