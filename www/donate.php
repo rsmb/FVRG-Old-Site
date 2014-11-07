@@ -67,11 +67,11 @@
 						</a>
 					-->
 					<a href="https://co.clickandpledge.com/?wid=91656" target="-blank">
-						<img alt="Donate Now" border="0" src="images\FVRG Donate Now Button.jpg" />
+						<img alt="Donate Now" border="0" src="images/FVRGDonateNowButton.jpg" />
 					</a>
 
 					<a href="https://co.clickandpledge.com/?wid=93097" target="-blank">
-						<img alt="Donate Now" border="0" src="images\Veterans Day Click & Pledge Banner.jpg" />
+						<img alt="Donate Now" border="0" src="images/VeteransDayDonateButton.jpg" />
 					</a>
 
 				</center>
