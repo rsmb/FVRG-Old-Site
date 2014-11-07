@@ -1,14 +1,13 @@
 <div id="event-box">
   <img src="images/event-top.jpg" width="244" height="31" />
     <div id="event-txt">
-      <h3>Verde River Day</h3>
+      <h3>Volunteer Opportunity</h3>
         <p>
-          Sept 27, 2014
+          Nov 15, 2014
           <br />
-          Dead Horse Ranch State Park
+          Come and continue the exciting work that was begun on the Jail Trail! Meet under the 10th Street Bridge near the Cottonwood Community Garden at 8:30 am.
           <br />
-          Cottonwood, AZ
-          <br /><br />
+          <br />
           <img src="images/verde_river_days2.jpg" width="200" height="300" alt="Verde River Day" style="float:left; margin-right:6pt; margin-top:1pt; margin-bottom:5pt"/>
         </p>
       <div align="right" style="margin-top:6pt">
