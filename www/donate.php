@@ -75,8 +75,6 @@
 						<img alt="Donate Now" border="0" src="images/VeteransDayDonateButton2.jpg" />
 					</a>
 
-				</center>
-
 				<br />
 
 				<div id="amznCharityBanner" style="position: relative">
@@ -96,6 +94,7 @@
 					</table>
 				</div>
 
+				</center>
 			</div>  <!-- Close Content Left Box-->
 
 			<div id="content-right">
