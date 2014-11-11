@@ -83,7 +83,7 @@
 							<img src='https://d1ev1rt26nhnwq.cloudfront.net/ccmtblv2.png' id="banner" style="border-style: none;" />
 						</a>
 					</div>
-					<table style="position: relative; text-align: center; width: 300px; top: 97px; height: 65px; vertical-align: middle">
+					<table style="position: absolute; text-align: center; width: 300px; top: 97px; height: 65px; vertical-align: middle">
 						<tr>
 							<td style="vertical-align: middle">
 								<div style="max-height: 54px; overflow: hidden; padding-left: 10px; padding-right: 10px;">
