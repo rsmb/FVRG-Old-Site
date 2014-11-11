@@ -77,7 +77,7 @@
 
 				<br />
 
-				<div id="amznCharityBanner" style="position: relative">
+				<div id="amznCharityBanner" style="position: center">
 					<div>
 						<a href="http://smile.amazon.com/ch/45-2927355">
 							<img src='https://d1ev1rt26nhnwq.cloudfront.net/ccmtblv2.png' id="banner" style="border-style: none;" />
@@ -87,7 +87,7 @@
 						<tr>
 							<td style="vertical-align: middle">
 								<div style="max-height: 54px; overflow: hidden; padding-left: 10px; padding-right: 10px;">
-									<span style="font-family: Arial; font-size: 26px; line-height: 26px; text-align: center;" class="charityNameSpan">Friends Of Verde River Greenway</span>
+									<span style="font-family: Arial; font-size: 26px; line-height: 26px;" class="charityNameSpan">Friends Of Verde River Greenway</span>
 								</div>
 							</td>
 						</tr>
