@@ -59,7 +59,6 @@
 				<br />
 				<br />
 
-				<center>
 					<!-- Razoo Donate link
 						<a href="http://www.razoo.com/story/Friends-Of-Verde-River-Greenway?referral_code=share" target="-blank">
 							<img alt="Donate Now" border="0" src="http://www.razoo.com/assets/brands/1/donate_now_narrow.png" />
@@ -83,6 +82,7 @@
 							<img src='https://d1ev1rt26nhnwq.cloudfront.net/ccmtblv2.png' id="banner" style="border-style: none;" />
 						</a>
 					</div>
+
 					<table style="position: absolute; text-align: center; width: 300px; top: 97px; height: 65px; vertical-align: middle">
 						<tr>
 							<td style="vertical-align: middle">
@@ -92,9 +92,9 @@
 							</td>
 						</tr>
 					</table>
+
 				</div>
 
-				</center>
 			</div>  <!-- Close Content Left Box-->
 
 			<div id="content-right">
