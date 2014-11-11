@@ -87,7 +87,7 @@
 						<tr>
 							<td style="vertical-align: middle">
 								<div style="max-height: 54px; overflow: hidden; padding-left: 10px; padding-right: 10px;">
-									<span style="font-family: Arial; font-size: 26px; line-height: 26px;" class="charityNameSpan">Friends Of Verde River Greenway</span>
+									<span style="font-family: Arial; font-size: 26px; line-height: 26px; text-align: center;" class="charityNameSpan">Friends Of Verde River Greenway</span>
 								</div>
 							</td>
 						</tr>
