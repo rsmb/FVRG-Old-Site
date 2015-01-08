@@ -5,8 +5,6 @@
         <p>
           April 23-26, 2015
           <br />
-          Come and continue the exciting work that was begun on the Jail Trail! Meet under the 10th Street Bridge near the Cottonwood Community Garden at 8:30 am.
-          <br />
           <br />
           <img src="images/birding.jpg"/>
         </p>

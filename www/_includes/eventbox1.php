@@ -7,9 +7,10 @@
     <br />
     <a href="http://vrvno.org/events">vrvno.org/events</a>
     <br />
+    <br />
     <img src="images/Canoe2.jpg">
     </p>
   </div>
-  
+
   <img src="images/event-bottom.jpg" width="244" height="19" />
 </div> <!-- Close Event Box 1 Box-->
