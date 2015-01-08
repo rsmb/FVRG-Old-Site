@@ -5,6 +5,8 @@
         <p>
           April 23-26, 2015
           <br />
+          <a href="http://verdebirdy.org/">verdebirdy.org</a>
+          <br />
           <br />
           <img src="images/birding.jpg"/>
         </p>
